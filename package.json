@@ -1,5 +1,5 @@
 {
-  "name": "hookssi_template",
+  "name": "Juun244_template",
   "version": "0.0.0-development",
   "description": "A github project template for future to use",
   "directories": {
@@ -20,18 +20,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hookSSi/hookssi_template.git"
+    "url": "https://github.com/Juun244/Repository2.git"
   },
   "keywords": [],
   "author": {
-    "name": "hookssi",
-    "email": "sounghoo12@gmail.com"
+    "name": "Juun244",
+    "email": "duxowns1354@naver.com"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hookSSi/hookssi_template/issues"
+    "url": "https://github.com/Juun244/Repository2/issues"
   },
-  "homepage": "https://github.com/hookSSi/hookssi_template#readme",
+  "homepage": "https://github.com/Juun244/Repository2.git#readme",
   "devDependencies": {
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
